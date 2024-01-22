@@ -1,0 +1,8 @@
+media
+db.sqlite3
+__pycache__
+migrations
+qr_codes
+manage.py
+qodana.yaml
+venv
